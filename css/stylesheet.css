@@ -1,0 +1,145 @@
+*{
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+}
+header{
+  width: 800px;
+  height: 268px;
+  background-image: url(grfx/header.jpg);
+  margin: 0 auto;
+
+}
+main{
+  background-color: white;
+  padding: 15px;
+  width: 770px;
+  margin: 0 auto;
+}
+.opvultekst{
+  padding: 10px;
+}
+
+
+.opvultekst1{
+  padding: 10px;
+  margin-top: 20px;
+
+}
+
+body{
+  background-image: url(grfx/bg.png);
+  background-repeat: repeat-x;
+
+}
+
+.vloot0{
+
+  float: left;
+  margin-bottom: 15px;
+  margin-right: 13px;
+}
+
+li {
+  list-style-type: none;
+  float: left;
+  display: inline;
+  margin-top: 165px;
+  margin-left: 15px;
+}
+
+li a{
+  color: white;
+  text-decoration: none;
+  text-align: center;
+
+
+}
+.devloot{
+
+  margin-left: 15px;
+}
+.regerenoverhetwater{
+  margin-left: 15px;
+
+}
+
+.vloot1{
+
+  float: left;
+  margin-bottom: 15px;
+  margin-right: 13px;
+
+}
+.vloot2{
+  float: right;
+  margin-left: 15px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.vloot3{
+  float: left;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.vloot4{
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.vloot5{
+  float: right;
+  margin-left: 15px;
+  margin-bottom: 15px;
+
+}
+
+.vloot6{
+  float: left;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.vloot7{
+  float: left;
+  margin: 20px;
+}
+
+.vloot8{
+  float: left;
+  margin-right: 15px;
+  margin-bottom: 12px;
+}
+
+.vloot9{
+  float: right;
+  margin-left: 15px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.vloot10{
+  float: left;
+  margin-top: 15px;
+  margin-right: 15px;
+  margin-bottom: 15px;
+}
+
+.vloot11{
+  float: left;
+  margin-left: 1px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.vloot12{
+  float: right;
+  margin-left: 15px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+
+}
